@@ -1,0 +1,14 @@
+footer {
+    position: absolute;
+    width: 100%;
+    background-color: #111111;
+    color: #888888;
+	left: 0;
+    bottom: 0;
+}
+
+footer > pre {
+    padding: 50px;
+    font-size: 14px;
+    line-height: 20px;
+}
